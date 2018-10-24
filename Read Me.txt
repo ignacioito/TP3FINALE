@@ -1,0 +1,12 @@
+-------------------------------
+INTRODUCTION À LA PROGRAMMATION
+-------------------------------
+
+ÈLEVES
+Ignacio Ito
+João Gustavo
+Luis Gustavo
+
+Professeure Rébecca Lapointe
+
+Le but de ce TP est de d ́evelopper une solution programmatique pour un probl`eme de complexit ́e interm ́ediaire. Il couvre les tableaux, les structures, les pointeurs et les arguments d’ex ́ecution. Il emm`ene aussi l’ ́etudiant·e `a d ́evelopper ses aptitudes de testeur afin de valider sa strat ́egie.
