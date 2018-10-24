@@ -25,10 +25,7 @@
 
 int main()
 {
-  
-  Score score = {0,0,0,0,0,0,0,0,0,0,0,0,0};
   Jet jet;
-  int scoreFinale = 0;
   char test;
 
   printf ("\n\n Voulez-vous exécuter des tests?");
